@@ -4,8 +4,6 @@
 #include <drogon/drogon.h>
 #include <drogon/HttpClient.h>
 #include <string>
-#include <future>
-#include <stdexcept>
 
 class HttpClient {
     std::shared_ptr<drogon::HttpClient> client;

@@ -1,5 +1,4 @@
 #include "../include/instance_holder.h"
-
 #include "../include/sql/sqlite3_handler.h"
 #include "../include/utilities/http_client.h"
 
